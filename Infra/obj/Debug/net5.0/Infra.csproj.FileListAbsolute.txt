@@ -1,0 +1,30 @@
+C:\Users\Edu\source\repos\CadasUsuario\Infra\bin\Debug\net5.0\Infra.deps.json
+C:\Users\Edu\source\repos\CadasUsuario\Infra\bin\Debug\net5.0\Infra.dll
+C:\Users\Edu\source\repos\CadasUsuario\Infra\bin\Debug\net5.0\Infra.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Infra\bin\Debug\net5.0\Domain.dll
+C:\Users\Edu\source\repos\CadasUsuario\Infra\bin\Debug\net5.0\Domain.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.dll
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\ref\Infra.dll
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\Infra.csproj.CopyComplete
+C:\Users\Edu\source\repos\CadasUsuario\Infra\obj\Debug\net5.0\refint\Infra.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\bin\Debug\net5.0\Infra.deps.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\bin\Debug\net5.0\Infra.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\bin\Debug\net5.0\Infra.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\bin\Debug\net5.0\Domain.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\bin\Debug\net5.0\Domain.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.csproj.AssemblyReference.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.AssemblyInfoInputs.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.AssemblyInfo.cs
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.csproj.CopyComplete
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\refint\Infra.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\Infra.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Infra\obj\Debug\net5.0\ref\Infra.dll

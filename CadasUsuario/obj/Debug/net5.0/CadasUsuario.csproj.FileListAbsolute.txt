@@ -1,0 +1,131 @@
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\appsettings.json
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.exe
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.deps.json
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.runtimeconfig.json
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.runtimeconfig.dev.json
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Application.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Domain.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Infra.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Application.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Domain.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\Infra.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.AssemblyInfo.cs
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\staticwebassets\CadasUsuario.StaticWebAssets.Manifest.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\scopedcss\bundle\CadasUsuario.styles.css
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.RazorTargetAssemblyInfo.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\ref\CadasUsuario.dll
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.pdb
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.genruntimeconfig.cache
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\CadasUsuario.csproj.CopyComplete
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\bin\Debug\net5.0\CadasUsuario.StaticWebAssets.xml
+C:\Users\Edu\source\repos\CadasUsuario\CadasUsuario\obj\Debug\net5.0\refint\CadasUsuario.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\appsettings.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\CadasUsuario.exe
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\CadasUsuario.deps.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\CadasUsuario.runtimeconfig.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\CadasUsuario.runtimeconfig.dev.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\CadasUsuario.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\CadasUsuario.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Application.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Domain.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Infra.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Application.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Domain.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\bin\Debug\net5.0\Infra.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.csproj.AssemblyReference.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.AssemblyInfoInputs.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.AssemblyInfo.cs
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.csproj.CoreCompileInputs.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\scopedcss\bundle\CadasUsuario.styles.css
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\staticwebassets\CadasUsuario.StaticWebAssets.Manifest.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.RazorTargetAssemblyInfo.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.csproj.CopyComplete
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\refint\CadasUsuario.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\CadasUsuario.genruntimeconfig.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\CadasUsuario\obj\Debug\net5.0\ref\CadasUsuario.dll

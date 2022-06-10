@@ -1,0 +1,34 @@
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Application.dll
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Domain.dll
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Infra.dll
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Domain.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Application\bin\Debug\net5.0\Infra.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.dll
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\Edu\source\repos\CadasUsuario\Application\obj\Debug\net5.0\refint\Application.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Application.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Domain.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Infra.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Domain.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\bin\Debug\net5.0\Infra.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\refint\Application.dll
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\luizsoziki\Desktop\Nova pasta\ApiFacul-main\Application\obj\Debug\net5.0\ref\Application.dll
